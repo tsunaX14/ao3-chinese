@@ -1,6 +1,6 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：tsunaX14
-更新时间：2026-06-28
+更新时间：2026-06-29
 
 词条
 
@@ -39,6 +39,7 @@ Fyre：弗莱
 Ince Zangwill：因斯·赞格威尔
 Antigonus；安提哥努斯
 Zhou Mingrui：周明瑞
+Zhou Ming Rui：周明瑞
 Grisha：格里沙
 Xio Derecha：休·迪尔查
 Cattleya：嘉德丽雅
@@ -82,6 +83,7 @@ Colin：科林
 Danitz：达尼兹
 Ince：因斯
 Azik：阿兹克
+Edwina：艾德雯娜
 
 
 //角色代号
@@ -166,7 +168,7 @@ Machinery Hiveminds：机械之心
 Northern Continent：北大陆
 Southern Continent：南大陆
 Western Continent：西大陆
-Bay City：贝克兰德
+Backlund：贝克兰德
 Intis Republic：因蒂斯共和国
 Loen Kingdom：鲁恩王国
 Feynapotter Kingdom：费内波特王国
@@ -249,6 +251,7 @@ Crossing Pathway：跨途径
 High Sequence Convergence：高序列聚合
 Saint：圣者
 Demigod：半神
+Creeping Hunger：蠕动的饥饿
 
 
 
