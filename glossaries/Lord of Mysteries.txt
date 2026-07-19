@@ -1,6 +1,6 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：tsunaX14
-更新时间：2026-06-29
+更新时间：2026-07-19
 
 词条
 
@@ -57,6 +57,18 @@ Dorian Gray Abraham：多里安·格雷·亚伯拉罕
 Anderson Hood：安德森·胡德
 Will Auceptin：威尔·昂赛汀
 Arrodes：阿罗德斯
+Naya：娜娅
+Royale：洛耀
+Rozanne：罗珊
+Selena：赛琳娜
+Megose：梅高欧丝
+Amyrius Rieveldt：艾弥留斯·利维特
+Hvin Rambis：赫温·兰比斯
+Jurgen Cooper：于尔根·库珀
+Glaint：格莱林特
+Abraham：亚伯拉罕
+ZoroastSauron：索伦
+Einhorn：艾因霍恩
 
 //角色简称
 Klein：克莱恩
@@ -84,7 +96,9 @@ Danitz：达尼兹
 Ince：因斯
 Azik：阿兹克
 Edwina：艾德雯娜
-
+Hvin：赫温
+Jurgen：于尔根
+Amyrius：艾弥留斯
 
 //角色代号
 The Fool：愚者
@@ -97,31 +111,39 @@ The Star：星星
 The Moon：月亮
 Temperance：节制
 The Hermit：隐者
+Mr.Luna：月亮先生
+Mr.Moon：月亮先生
 
-//七神
+
+//正神
 Evernight Goddess：黑夜女神
 Lord of Storms：风暴之主
 Eternal Blazing Sun：永恒烈阳
 God of Knowledge and Wisdom：知识与智慧之神
 Mother Earth Goddess：大地母神
+Earth Mother：大地母神
 God of War：战神
 God of Steam and Machinery：蒸汽与机械之神
 
-//邪神，旧日
+//其余真神，旧日
+True Creator：真实造物主
+Primordial God Almighty：远古太阳神
+Hidden Sage：隐匿贤者
+Primordial Demoness：原初魔女
 Celestial Worthy：天尊
 Celestial Worthy of Heaven and Earth for Blessings：福生玄黄天尊
-Primordial God Almighty：远古太阳神
-True Creator：真实造物主
 Mother Goddess of Depravity：堕落母神
 Mother Tree of Desire：欲望母树
 Monarch of Decay：腐烂君王
+Chained God：被缚之神
+Son of Chaos：混沌之子
 High-Dimensional Overseer：高维俯瞰者
 Ancient God of the Dead：古老死神
 Lord of Mysteries：诡秘之主
 Mysteries Lord：诡秘之主
 original God：原初上帝
 
-//海盗将军之类
+//海上
 Pirate Admirals：海盗将军
 Admiral of Stars：星之上将
 Edwina Edwards：艾德雯娜·爱德华兹
@@ -138,17 +160,19 @@ Admiral of Hurricane：飓风中将
 通用词条
 
 //教会&组织
-Church of the Evernight Goddess：黑夜教会
+Church of the Evernight Goddess：黑夜女神教会
+Church of Evernight：黑夜教会
 Church of the Lord of Storms：风暴教会
 Church of the Eternal Blazing Sun：永恒烈阳教会
 Church of Knowledge and Wisdom：知识与智慧教会
+Church of Knowledge：知识教会
 Church of Mother Earth：大地母神教会
 Church of War：战神教会
 Church of Steam and Machinery：蒸汽与机械教会
 Demoness Sect：魔女教派
 Secret Order of the Rose：玫瑰学派
 Life School of Thought：生命学派
-Mysterious Meditation Order：摩斯苦修会
+Moses Ascetic Order：摩斯苦修会
 Order of the Starry Sky：要素黎明
 Intis Royal Family：因蒂斯皇室
 Abraham Family：亚伯拉罕家族
@@ -158,11 +182,16 @@ Einhorn Family：艾因霍恩家族
 Aurora Order：极光会
 Tarot Club：塔罗会
 Secret Order：密修会
+Psychic Research Society：灵知会
+Life School of Thought：生命学派
+official Beyonders：官方非凡者
 
 //小队
 Nighthawks：值夜者
 Punishers：代罚者
 Machinery Hiveminds：机械之心
+Red Glove：红手套
+
 
 //地点
 Northern Continent：北大陆
@@ -175,6 +204,21 @@ Feynapotter Kingdom：费内波特王国
 Balam Empire：拜亚姆帝国
 Rorsted Archipelago：罗思德群岛
 Sea of Suresh：苏尼亚海
+Balam：拜亚姆
+Loen：鲁恩
+Daisy Bay：迪西海湾
+Khoy University：霍伊大学
+Tingen：廷根
+Blackthorn：黑荆棘
+Heavens：深黯天国
+Evernight church：黑夜教堂
+Southville：南威尔
+Balam：拜朗
+Bansy：班西
+Forsaken Land of the Gods：神弃之地
+City of Silver：白银城
+Moon City：月城
+
 
 //纪元
 First Epoch：第一纪
@@ -190,24 +234,60 @@ Sefirah Castle：源堡
 River of Eternal Darkness：永暗之河
 Chaos Sea：混沌海
 
+//途径
+pathway：途径
+Seer：占卜家
+Faceless：无面人
+Marionettist：密偶大师
+Bizarro Sorcerer：诡法师
+Miracle Invoker：奇迹师
+Spectator：观众
+Sailor：水手
+Sleepless：不眠者
+Apothecary：药师
+Demoness：魔女
+Pyromaniac：纵火家
+Worm of Time ：时之虫
+Tyrant：暴君
+Corpse Collector：收尸人
+Undying：不死者
+Planter：耕种者
+Lightseeker：逐光者
+
 //其他
 infected：污染
-sleepless：不眠者
-the luck enhancement ritual：转运仪式
+Luck Enhancement Ritual：转运仪式
 snake of Mercury：水银之蛇
+War of Four Emperors：四皇之战
+Sanguine：血族
+Blessed：眷者
+adorer：眷者
+Wraith：怨魂
+Tinder：火种
+Staff of Stars：星之杖
+Star Staff：星之杖
 The Fool That Doesn't Belong To This Era：不属于这个时代的愚者
 The Mysterious Ruler Above The Gray Fog：灰雾之上的神秘主宰
 King of Kingless World Who Gazes At Fate：执掌好运的黄黑之王
+Blessed of the sea and spirit world：大海与灵界的眷者
+Guardian of the Rorsted Archipelago：罗思德群岛的守护者
+Ruler of the Undersea Creatures：海底生物的支配者
+Master of Tsunamis and Storms：海啸与暴风的掌控者
+The Great Kalvetua：伟大的卡维图瓦
+characteristic：特性
 Extraordinary characteristics：非凡特性
 Uniqueness：唯一性
 the river of fate：命运道标
 The wheel of time：时空之王
-puppets：秘偶
+marionette：秘偶
+soli：苏勒
+Lady Despair：绝望女士
+Half-Fool：半个愚者
+Desi Pie：迪西馅饼
 original：原初
 convergence：聚合
 human soul：人性
 Error uniqueness：错误唯一性
-pathways：途径
 Mysteries：诡秘
 Fool Pathway：愚者途径
 mythos：圣典
@@ -215,10 +295,11 @@ God of Deceit：欺诈之神
 Angel of Imagination：空想天使
 beyonder abilities：非凡能力
 Evernight：黑夜
-Savant：通识者
+beyonder：非凡者
 Beyonders：非凡者
 Angel of Time：时之天使
 Worms of Spirit：灵之虫
+Spiritual Worm：灵之虫
 Time Worm：时之虫
 Star Worm：星之虫
 Beyonder Pathway：非凡途径
@@ -237,7 +318,8 @@ Spirit World：灵界
 Astral World：星界
 Pillar：支柱
 Authority：权柄
-Ritual：晋升仪式
+Ritual：仪式
+artifact：封印物
 Sealed Artifact：封印物
 Magical Item：神奇物品
 Feathered Serpent：羽蛇
@@ -251,9 +333,16 @@ Crossing Pathway：跨途径
 High Sequence Convergence：高序列聚合
 Saint：圣者
 Demigod：半神
+half god：半神
 Creeping Hunger：蠕动的饥饿
-
-
-
-
-
+ascend：晋升
+pendulum：灵摆
+Acting Method：扮演法
+angel of concealment：隐秘天使
+concealed：隐秘
+Honorific Name：尊名
+Card of Blasphemy：亵渎之牌
+mysticism：神秘学
+outer deity：外神
+projection：投影
+incarnation：化身
