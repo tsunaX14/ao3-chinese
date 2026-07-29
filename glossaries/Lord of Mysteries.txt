@@ -1,6 +1,6 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：tsunaX14
-更新时间：2026-07-19
+更新时间：2026-07-29
 
 词条
 
@@ -69,6 +69,8 @@ Glaint：格莱林特
 Abraham：亚伯拉罕
 ZoroastSauron：索伦
 Einhorn：艾因霍恩
+Flegrea：弗雷格拉
+Crestet Cesimir：克雷斯泰·塞西玛
 
 //角色简称
 Klein：克莱恩
@@ -99,6 +101,8 @@ Edwina：艾德雯娜
 Hvin：赫温
 Jurgen：于尔根
 Amyrius：艾弥留斯
+Crestet：克雷斯泰
+Cesimir：塞西玛
 
 //角色代号
 The Fool：愚者
@@ -111,8 +115,15 @@ The Star：星星
 The Moon：月亮
 Temperance：节制
 The Hermit：隐者
-Mr.Luna：月亮先生
-Mr.Moon：月亮先生
+Mr. Luna：月亮先生
+Mr. Moon：月亮先生
+Mr. Star：星星先生
+Miss Hermit：隐者女士
+Miss Judgment：审判小姐
+Angel of Wisdom：智天使
+
+
+通用词条
 
 
 //正神
@@ -154,10 +165,6 @@ Tracy：特蕾西
 Admiral of Disease：疾病中将
 Mysterious Queen：神秘女王
 Admiral of Hurricane：飓风中将
-
-
-
-通用词条
 
 //教会&组织
 Church of the Evernight Goddess：黑夜女神教会
@@ -302,6 +309,7 @@ Worms of Spirit：灵之虫
 Spiritual Worm：灵之虫
 Time Worm：时之虫
 Star Worm：星之虫
+path：途径
 Beyonder Pathway：非凡途径
 Path of the Divine：神之途径
 Sequence：序列
@@ -346,3 +354,10 @@ mysticism：神秘学
 outer deity：外神
 projection：投影
 incarnation：化身
+potion system：魔药体系
+previous era：旧日
+demonic wolf：魔狼
+substitute God：从神
+cocon：茧
+cocons：茧
+Blasphemy Slate：亵渎石板
