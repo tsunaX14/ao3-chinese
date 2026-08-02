@@ -1,6 +1,6 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：tsunaX14
-更新时间：2026-07-29
+更新时间：2026-08-02
 
 词条
 
@@ -103,6 +103,8 @@ Jurgen：于尔根
 Amyrius：艾弥留斯
 Crestet：克雷斯泰
 Cesimir：塞西玛
+A'rui：阿瑞
+Arui：阿瑞
 
 //角色代号
 The Fool：愚者
@@ -121,6 +123,7 @@ Mr. Star：星星先生
 Miss Hermit：隐者女士
 Miss Judgment：审判小姐
 Angel of Wisdom：智天使
+Angel of Darkness：暗天使
 
 
 通用词条
@@ -143,6 +146,9 @@ Hidden Sage：隐匿贤者
 Primordial Demoness：原初魔女
 Celestial Worthy：天尊
 Celestial Worthy of Heaven and Earth for Blessings：福生玄黄天尊
+Celestial Worthly of Heaven and Earth of Blessings：福生玄黄天尊
+Celestial Worthy of Heaven and Earth Blessings：福生玄黄天尊
+Fúshēng Xuánhuáng Tiānzūn：福生玄黄天尊
 Mother Goddess of Depravity：堕落母神
 Mother Tree of Desire：欲望母树
 Monarch of Decay：腐烂君王
@@ -195,6 +201,7 @@ official Beyonders：官方非凡者
 
 //小队
 Nighthawks：值夜者
+Nighthawk：值夜者
 Punishers：代罚者
 Machinery Hiveminds：机械之心
 Red Glove：红手套
@@ -217,13 +224,13 @@ Daisy Bay：迪西海湾
 Khoy University：霍伊大学
 Tingen：廷根
 Blackthorn：黑荆棘
-Heavens：深黯天国
 Evernight church：黑夜教堂
 Southville：南威尔
 Balam：拜朗
 Bansy：班西
 Forsaken Land of the Gods：神弃之地
 City of Silver：白银城
+kingdom of silver：白银之国
 Moon City：月城
 
 
@@ -236,10 +243,10 @@ Fifth Epoch：第五纪
 
 //源质
 Sefirot：源质
-Castle of the Fool：源堡
 Sefirah Castle：源堡
 River of Eternal Darkness：永暗之河
 Chaos Sea：混沌海
+Chaose Sea：混沌海
 
 //途径
 pathway：途径
@@ -260,10 +267,18 @@ Corpse Collector：收尸人
 Undying：不死者
 Planter：耕种者
 Lightseeker：逐光者
+Error：错误
+Visionary：空想家
+Attendant of Mysteries：诡秘侍者
+The Hanged Man：倒吊人
+Hangman：倒吊人
+
 
 //其他
 infected：污染
 Luck Enhancement Ritual：转运仪式
+luck-boosting ritual：转运仪式
+Spirituality：灵性
 snake of Mercury：水银之蛇
 War of Four Emperors：四皇之战
 Sanguine：血族
@@ -361,3 +376,10 @@ substitute God：从神
 cocon：茧
 cocons：茧
 Blasphemy Slate：亵渎石板
+also Half the Great Old One：半旧日
+Curly-Haired Baboons：卷毛狒狒
+
+
+
+
+
