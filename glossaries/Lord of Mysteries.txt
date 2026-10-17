@@ -1,6 +1,6 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：tsunaX14
-更新时间：2026-08-02
+更新时间：2026-10-17
 
 词条
 
@@ -32,7 +32,7 @@ Bernadette：贝尔纳黛
 Medici：梅迪奇
 Ouroboros：乌洛琉斯
 Qilangos：齐林格斯
-Lanevus：拉尔乌斯
+Lanevus：兰尔乌斯
 Kenley：科恩黎
 Sharon：雪伦
 Fyre：弗莱
@@ -71,6 +71,7 @@ ZoroastSauron：索伦
 Einhorn：艾因霍恩
 Flegrea：弗雷格拉
 Crestet Cesimir：克雷斯泰·塞西玛
+Hermes：赫密斯
 
 //角色简称
 Klein：克莱恩
@@ -120,6 +121,9 @@ The Hermit：隐者
 Mr. Luna：月亮先生
 Mr. Moon：月亮先生
 Mr. Star：星星先生
+Mr. Hanged Man：倒吊人先生
+Emperor Roselle：罗塞尔大帝
+Mr. Sun：太阳先生
 Miss Hermit：隐者女士
 Miss Judgment：审判小姐
 Angel of Wisdom：智天使
@@ -136,6 +140,7 @@ Eternal Blazing Sun：永恒烈阳
 God of Knowledge and Wisdom：知识与智慧之神
 Mother Earth Goddess：大地母神
 Earth Mother：大地母神
+the Mother of Earth：大地母神
 God of War：战神
 God of Steam and Machinery：蒸汽与机械之神
 
@@ -204,6 +209,7 @@ Nighthawks：值夜者
 Nighthawk：值夜者
 Punishers：代罚者
 Machinery Hiveminds：机械之心
+the Machinary Hivemind：机械之心
 Red Glove：红手套
 
 
@@ -218,6 +224,7 @@ Feynapotter Kingdom：费内波特王国
 Balam Empire：拜亚姆帝国
 Rorsted Archipelago：罗思德群岛
 Sea of Suresh：苏尼亚海
+Sonia Sea：苏尼亚海
 Balam：拜亚姆
 Loen：鲁恩
 Daisy Bay：迪西海湾
@@ -240,6 +247,7 @@ Second Epoch：第二纪
 Third Epoch：第三纪
 Fourth Epoch：第四纪
 Fifth Epoch：第五纪
+
 
 //源质
 Sefirot：源质
@@ -272,6 +280,13 @@ Visionary：空想家
 Attendant of Mysteries：诡秘侍者
 The Hanged Man：倒吊人
 Hangman：倒吊人
+Hanged Man：倒吊人
+Marauder：偷盗者
+Apprentice：学徒
+Psychiatric：心理医生
+Trickmaster：戏法大师
+Keepers of the Seas：海眷者
+
 
 
 //其他
@@ -376,9 +391,23 @@ substitute God：从神
 cocon：茧
 cocons：茧
 Blasphemy Slate：亵渎石板
+Blasphemy State：亵渎石板
+Jotun：巨人
+ancient Feysac：古弗萨克
+the Blue Avenger ship：幽蓝复仇者号
 also Half the Great Old One：半旧日
 Curly-Haired Baboons：卷毛狒狒
-
+three-line honorific name：三段式尊名
+Trust in God, but not in They mercy：相信神灵的威能，不要相信祂们的仁慈
+Trickmaster：渎神者
+follower：信徒
+Seven Lights：七光
+Tarot meeting：塔罗会议
+mailman：邮差
+Divine Kingdom：神国
+Jotun language：巨人语
+potion formulas：魔药配方
+Ghost Shark：鬼鲨
 
 
 
